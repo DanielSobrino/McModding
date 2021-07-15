@@ -1,0 +1,38 @@
+{
+  "schemaVersion": 1,
+  "id": "bearmeat",
+  "version": "${version}",
+
+  "name": "Bear Meat",
+  "description": "Bears now drop meat, which you can cook as any other meat!",
+  "authors": [
+    "Durummy"
+  ],
+  "contact": {
+    "homepage": "",
+    "sources": ""
+  },
+
+  "license": "CC0-1.0",
+  "icon": "assets/bearmeat/icon.png",
+
+  "environment": "*",
+  "entrypoints": {
+    "main": [
+      "durummy.bear.meat.BearMeat"
+    ]
+  },
+  "mixins": [
+    "bearmeat.mixins.json"
+  ],
+
+  "depends": {
+    "fabricloader": ">=0.11.3",
+    "fabric": "*",
+    "minecraft": "1.17.x",
+    "java": ">=16"
+  },
+  "suggests": {
+    "another-mod": "*"
+  }
+}

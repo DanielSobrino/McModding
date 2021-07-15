@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "W W",
+    "WWW",
+    "WWW"
+  ],
+  "key": {
+    "W": {
+      "item": "bearmeat:bear_fur"
+    }
+  },
+  "result": {
+    "item": "bearmeat:bear_fur_chestplate",
+    "count": 1
+  }
+}
