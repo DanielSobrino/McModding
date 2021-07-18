@@ -1,0 +1,26 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "ELE",
+    "CNC",
+    "ELE"
+  ],
+  "key": {
+    "E": {
+      "item": "doxite:endrium"
+    },
+    "L": {
+      "item": "minecraft:lapis_block"
+    },
+    "N": {
+      "item": "minecraft:nether_star"
+    },
+    "C": {
+      "item": "minecraft:copper_block"
+    }
+  },
+  "result": {
+    "item": "doxite:doxite",
+    "count": 1
+  }
+}

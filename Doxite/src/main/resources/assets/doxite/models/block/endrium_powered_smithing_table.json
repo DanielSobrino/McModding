@@ -1,0 +1,14 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "particle": "doxite:block/endrium_powered_smithing_table_left",
+    "north": "doxite:block/endrium_powered_smithing_table_front",
+    "west": "doxite:block/endrium_powered_smithing_table_right",
+    "south": "doxite:block/endrium_powered_smithing_table_back",
+    "east": "doxite:block/endrium_powered_smithing_table_left",
+    "up": "doxite:block/endrium_powered_smithing_table_top",
+    "down": "doxite:block/endrium_powered_smithing_table_bottom"
+  }
+
+}
+

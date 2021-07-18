@@ -1,0 +1,26 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "EDE",
+    "CSC",
+    "DDD"
+  ],
+  "key": {
+    "E": {
+      "item": "doxite:endrium"
+    },
+    "D": {
+      "item": "minecraft:deepslate"
+    },
+    "S": {
+      "item": "minecraft:smithing_table"
+    },
+    "C": {
+      "item": "minecraft:copper_block"
+    }
+  },
+  "result": {
+    "item": "doxite:endrium_powered_smithing_table",
+    "count": 1
+  }
+}
